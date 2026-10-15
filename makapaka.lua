@@ -1,3 +1,14 @@
+--[[ LEAKED BY
+    .___             .__    .___                              
+  __| _/______  ____ |__| __| _/_  _  _______ _______   ____  
+ / __ |\_  __ \/  _ \|  |/ __ |\ \/ \/ /\__  \\_  __ \_/ __ \ 
+/ /_/ | |  | \(  <_> )  / /_/ | \     /  / __ \|  | \/\  ___/ 
+\____ | |__|   \____/|__\____ |  \/\_/  (____  /__|    \___  >
+     \/                      \/              \/            \/ 
+
+.gg/droidware on top anyway
+]]
+
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
